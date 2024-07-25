@@ -4,7 +4,7 @@ go 1.20
 
 require (
 	github.com/DataDog/datadog-go v4.8.3+incompatible
-	github.com/go-redis/redis/v8 v8.11.5
+	github.com/go-redis/redis/v9 v9.6.1
 	github.com/go-redis/redismock/v8 v8.11.5
 	github.com/go-redis/redismock/v9 v9.2.0
 	github.com/gorilla/mux v1.8.0
